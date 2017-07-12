@@ -1,0 +1,33 @@
+.greenyellow {
+    background-color: #FF6666;
+}
+
+.greened {
+	background-color: #66FF66;
+}
+
+.body {
+    font: normal 100px Calibri;
+}
+.upload-excel-forms {
+    
+    float:left;
+    margin: 10px;
+
+}
+.upload-excel-button {
+    display: block;
+    float:left;
+    margin:5px;
+}
+.upload-input{
+    display: block;
+    float:left;
+    margin: 5px;
+}
+.export-excel-button
+{
+   display: block;
+    float: left;
+    margin: 10px;
+}
